@@ -19,7 +19,7 @@ Product teams often ship or kill features based on early noisy conversion number
 ## How to Run
 
 ```bash
-git clone [https://github.com/puneetgoswami1/ab-testing-experimentation-engine.git]
+git clone https://github.com/puneetgoswami1/ab-testing-experimentation-engine.git
 cd ab-testing-experimentation-engine
 
 pip install -r requirements.txt
